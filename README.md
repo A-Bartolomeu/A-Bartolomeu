@@ -1,9 +1,11 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
-<div >
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-Bartolomeu&show_icons=true&include_all_commits=true&ring_color=703ee5"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Bartolomeu&layout=donut"/>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-Bartolomeu&show_icons=true&include_all_commits=true&ring_color=703ee5&title_color=5215fc&text_color=262552&icon_color=703ee5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Bartolomeu&layout=compact&title_color=5215fc&text_color=262552&text_bold=true"/>
 </div>
+
+
 
 <!--
 **A-Bartolomeu/A-Bartolomeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
